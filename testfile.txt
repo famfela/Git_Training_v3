@@ -1,1 +1,1 @@
-This is my new file from repo and addedd to local
+This is my new file from repo and addedd remote repol
